@@ -1,0 +1,18 @@
+{
+    "semantic": {
+        "color": {
+            "background": {
+                "value": "{brand.color.pink.100}",
+                "type": "color"
+            },
+            "primary": {
+                "value": "{brand.color.white.100}",
+                "type": "color"
+            },
+            "secondary": {
+                "value": "{brand.color.black.50}",
+                "type": "color"
+            }
+        }
+    }
+}

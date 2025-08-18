@@ -1,0 +1,62 @@
+{
+    "brand": {
+        "color": {
+            "blue": {
+                "25": {
+                    "value": "#A7C6D9",
+                    "type": "color"
+                },
+                "50": {
+                    "value": "#6FA8C9",
+                    "type": "color"
+                },
+                "100": {
+                    "value": "#3F7BAE",
+                    "type": "color"
+                }
+            },
+            "ruby": {
+                "25": {
+                    "value": "#F2C6D4",
+                    "type": "color"
+                },
+                "50": {
+                    "value": "#EFA1B8",
+                    "type": "color"
+                },
+                "100": {
+                    "value": "#E56A8C",
+                    "type": "color"
+                }
+            },
+            "white": {
+                "25": {
+                    "value": "#FFFFFF",
+                    "type": "color"
+                },
+                "50": {
+                    "value": "#F8F8F8",
+                    "type": "color"
+                },
+                "100": {
+                    "value": "#F0F0F0",
+                    "type": "color"
+                }
+            },
+            "black": {
+                "25": {
+                    "value": "#F0F0F0",
+                    "type": "color"
+                },
+                "50": {
+                    "value": "#D9D9D9",
+                    "type": "color"
+                },
+                "100": {
+                    "value": "#B3B3B3",
+                    "type": "color"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "mode": {
+        "color": {
+            "background": {
+                "value": "{brand.color.white.25}",
+                "type": "color"
+            },
+            "primary": {
+                "value": "{brand.color.blue.100}",
+                "type": "color"
+            },
+            "secondary": {
+                "value": "{brand.color.ruby.100}",
+                "type": "color"
+            }
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "brand": {
+        "color": {
+            "pink": {
+                "25": {
+                    "value": "#FDEDF4",
+                    "type": "color"
+                },
+                "50": {
+                    "value": "#F9D6E8",
+                    "type": "color"
+                },
+                "100": {
+                    "value": "#F2A3C7",
+                    "type": "color"
+                }
+            },
+            "white": {
+                "25": {
+                    "value": "#FFFFFF",
+                    "type": "color"
+                },
+                "50": {
+                    "value": "#F8F8F8",
+                    "type": "color"
+                },
+                "100": {
+                    "value": "#F0F0F0",
+                    "type": "color"
+                }
+            },
+            "black": {
+                "25": {
+                    "value": "#F0F0F0",
+                    "type": "color"
+                },
+                "50": {
+                    "value": "#D9D9D9",
+                    "type": "color"
+                },
+                "100": {
+                    "value": "#B3B3B3",
+                    "type": "color"
+                }
+            }
+        }
+    }
+}

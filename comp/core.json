@@ -1,0 +1,16 @@
+{
+    "comp": {
+        "header": {
+            "color": {
+                "title": {
+                    "value": "{mode.color.primary}",
+                    "type": "color"
+                },
+                "subtitle": {
+                    "value": "{mode.color.secondary}",
+                    "type": "color"
+                }
+            }
+        }
+    }
+}
