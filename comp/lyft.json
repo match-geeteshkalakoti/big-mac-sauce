@@ -1,0 +1,10 @@
+{
+  "comp": {
+    "header": {
+      "borderRadius": {
+        "value": "40",
+        "type": "borderRadius"
+      }
+    }
+  }
+}
