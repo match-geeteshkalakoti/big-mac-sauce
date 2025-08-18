@@ -1,18 +1,18 @@
 {
-    "mode": {
-        "color": {
-            "background": {
-                "value": "{brand.color.gray.25}",
-                "type": "color"
-            },
-            "primary": {
-                "value": "{brand.color.black.100}",
-                "type": "color"
-            },
-            "accent": {
-                "value": "{brand.color.cyan.100}",
-                "type": "color"
-            }
-        }
+  "mode": {
+    "color": {
+      "background": {
+        "value": "{brand.color.gray.25}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{brand.color.black.100}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{brand.color.cyan.100}",
+        "type": "color"
+      }
     }
+  }
 }

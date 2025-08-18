@@ -1,0 +1,15 @@
+{
+  "tokenSetOrder": [
+    "brand/core",
+    "brand/lyft",
+    "brand/uber",
+    "comp/core",
+    "mode/core/dark",
+    "mode/core/light",
+    "mode/uber/food",
+    "mode/uber/taxi",
+    "semantic/core",
+    "semantic/lyft",
+    "semantic/uber"
+  ]
+}

@@ -1,18 +1,18 @@
 {
-    "mode": {
-        "color": {
-            "background": {
-                "value": "{brand.color.black.100}",
-                "type": "color"
-            },
-            "primary": {
-                "value": "{brand.color.blue.25}",
-                "type": "color"
-            },
-            "secondary": {
-                "value": "{brand.color.ruby.25}",
-                "type": "color"
-            }
-        }
+  "mode": {
+    "color": {
+      "background": {
+        "value": "{brand.color.black.100}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{brand.color.blue.25}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{brand.color.ruby.25}",
+        "type": "color"
+      }
     }
+  }
 }

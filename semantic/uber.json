@@ -1,10 +1,10 @@
 {
-    "semantic": {
-        "color": {
-            "secondary": {
-                "value": "{mode.color.accent}",
-                "type": "color"
-            }
-        }
+  "semantic": {
+    "color": {
+      "secondary": {
+        "value": "{mode.color.accent}",
+        "type": "color"
+      }
     }
+  }
 }

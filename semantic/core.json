@@ -1,18 +1,18 @@
 {
-    "semantic": {
-        "color": {
-            "background": {
-                "value": "{mode.color.background}",
-                "type": "color"
-            },
-            "primary": {
-                "value": "{mode.color.primary}",
-                "type": "color"
-            },
-            "secondary": {
-                "value": "{mode.color.secondary}",
-                "type": "color"
-            }
-        }
+  "semantic": {
+    "color": {
+      "background": {
+        "value": "{mode.color.background}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{mode.color.primary}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{mode.color.secondary}",
+        "type": "color"
+      }
     }
+  }
 }
