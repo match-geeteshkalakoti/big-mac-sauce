@@ -1,8 +1,28 @@
 {
   "semantic": {
     "color": {
-      "secondary": {
-        "value": "{mode.color.accent}",
+      "background": {
+        "value": "{brand.color.white.100}",
+        "type": "color"
+      },
+      "onBackground": {
+        "value": "{brand.color.black.100}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{mode.color.primary}",
+        "type": "color"
+      },
+      "onPrimary": {
+        "value": "{mode.color.onPrimary}",
+        "type": "color"
+      },
+      "primaryVariant": {
+        "value": "{brand.color.gray.100}",
+        "type": "color"
+      },
+      "onPrimaryVariant": {
+        "value": "{brand.color.black.100}",
         "type": "color"
       }
     }

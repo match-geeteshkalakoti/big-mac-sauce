@@ -1,17 +1,19 @@
 {
   "mode": {
     "color": {
-      "background": {
-        "value": "{brand.color.gray.25}",
-        "type": "color"
-      },
       "primary": {
         "value": "{brand.color.black.100}",
         "type": "color"
       },
-      "accent": {
-        "value": "{brand.color.green.100}",
+      "onPrimary": {
+        "value": "{brand.color.white.100}",
         "type": "color"
+      }
+    },
+    "text": {
+      "search": {
+        "value": "Where are you going?",
+        "type": "text"
       }
     }
   }

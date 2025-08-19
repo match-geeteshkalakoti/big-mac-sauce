@@ -2,27 +2,27 @@
   "semantic": {
     "color": {
       "background": {
-        "value": "{mode.color.background}",
+        "value": "#FFFFFF",
         "type": "color"
       },
       "onBackground": {
-        "value": "{mode.color.onBackground}",
+        "value": "#000000",
         "type": "color"
       },
       "primary": {
-        "value": "{brand.color.pink.100}",
+        "value": "#000000",
         "type": "color"
       },
       "onPrimary": {
-        "value": "{brand.color.white.100}",
+        "value": "#FFFFFF",
         "type": "color"
       },
       "primaryVariant": {
-        "value": "{mode.color.primaryVariant}",
+        "value": "#C3C3C3",
         "type": "color"
       },
       "onPrimaryVariant": {
-        "value": "{mode.color.onPrimaryVariant}",
+        "value": "#FFFFFF",
         "type": "color"
       }
     },
@@ -35,7 +35,7 @@
     "typography": {
       "display": {
         "value": {
-          "fontFamily": "Roboto",
+          "fontFamily": "Inter",
           "fontSize": "24",
           "fontWeight": "Regular",
           "lineHeight": "24"
@@ -44,16 +44,16 @@
       },
       "title": {
         "value": {
-          "fontFamily": "Roboto",
-          "fontSize": "15",
-          "fontWeight": "ExtraBold",
-          "lineHeight": "15"
+          "fontFamily": "Inter",
+          "fontSize": "12",
+          "fontWeight": "Regular",
+          "lineHeight": "12"
         },
         "type": "typography"
       },
       "body": {
         "value": {
-          "fontFamily": "Roboto",
+          "fontFamily": "Inter",
           "fontSize": "10",
           "fontWeight": "Regular",
           "lineHeight": "10"
@@ -62,7 +62,7 @@
       }, 
       "caption": {
         "value": {
-          "fontFamily": "Roboto",
+          "fontFamily": "Inter",
           "fontSize": "9",
           "fontWeight": "Regular",
           "lineHeight": "10"

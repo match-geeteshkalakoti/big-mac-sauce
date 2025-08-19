@@ -1,17 +1,19 @@
 {
   "mode": {
     "color": {
-      "background": {
-        "value": "{brand.color.gray.25}",
+      "primary": {
+        "value": "{brand.color.green.100}",
         "type": "color"
       },
-      "primary": {
+      "onPrimary": {
         "value": "{brand.color.black.100}",
         "type": "color"
-      },
-      "accent": {
-        "value": "{brand.color.cyan.100}",
-        "type": "color"
+      }
+    },
+    "text": {
+      "search": {
+        "value": "What are you craving?",
+        "type": "text"
       }
     }
   }

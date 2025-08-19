@@ -1,0 +1,28 @@
+{
+  "comp": {
+    "search": {
+      "borderRadius": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "hint": {
+        "value": "Search",
+        "type": "text"
+      }
+    },
+    "map": {
+      "borderRadius": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "border": {
+        "value": {
+          "color": "{semantic.color.primaryVariant}",
+          "width": "1",
+          "style": "solid"
+        },
+        "type": "border"
+      }
+    }
+  }
+}

@@ -1,10 +1,20 @@
 {
   "comp": {
-    "header": {
-      "borderRadius": {
-        "value": "40",
-        "type": "borderRadius"
-      }
+    "search": {
+        "hint": {
+            "value": "Where are you headed?",
+            "type": "text"
+        },
+        "borderRadius": {
+            "value": "20",
+            "type": "borderRadius"
+        }
+    }
+  },
+  "map": {
+    "borderRadius": {
+      "value": "16",
+      "type": "borderRadius"
     }
   }
 }

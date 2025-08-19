@@ -1,59 +1,27 @@
 {
   "brand": {
     "color": {
+      "white": {
+        "100": {
+          "value": "#FFFFFF",
+          "type": "color"
+        }
+      },
       "gray": {
-        "25": {
-          "value": "#F5F5F5",
-          "type": "color"
-        },
-        "50": {
-          "value": "#E0E0E0",
-          "type": "color"
-        },
         "100": {
           "value": "#BDBDBD",
           "type": "color"
         }
       },
       "black": {
-        "25": {
-          "value": "#F0F0F0",
-          "type": "color"
-        },
-        "50": {
-          "value": "#D9D9D9",
-          "type": "color"
-        },
         "100": {
-          "value": "#111111",
+          "value": "#000000",
           "type": "color"
         }
       },
       "green": {
-        "25": {
-          "value": "#D9F2D9",
-          "type": "color"
-        },
-        "50": {
-          "value": "#A6E6A6",
-          "type": "color"
-        },
         "100": {
-          "value": "#66CC66",
-          "type": "color"
-        }
-      },
-      "cyan": {
-        "25": {
-          "value": "#D9F2F2",
-          "type": "color"
-        },
-        "50": {
-          "value": "#A6E6E6",
-          "type": "color"
-        },
-        "100": {
-          "value": "#66CCCC",
+          "value": "#06C167",
           "type": "color"
         }
       }

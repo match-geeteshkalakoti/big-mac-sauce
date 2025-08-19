@@ -1,29 +1,20 @@
 {
   "comp": {
-    "header": {
-      "spacing": {
-        "gap": {
-          "value": "24",
-          "type": "spacing"
-        }
-      }
-    },
-    "box": {
-      "size": {
-        "value": "64",
-        "type": "sizing"
-      },
-      "dropShadow": {
-        "value": {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "0",
-          "color": "#000000",
-          "type": "dropShadow"
+    "search": {
+        "hint": {
+            "value": "{mode.text.search}",
+            "type": "text"
         },
-        "type": "boxShadow"
-      }
+        "borderRadius": {
+            "value": "4",
+            "type": "borderRadius"
+        }
+    }
+  },
+  "map": {
+    "borderRadius": {
+      "value": "8",
+      "type": "borderRadius"
     }
   }
 }
