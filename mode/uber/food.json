@@ -14,6 +14,10 @@
       "search": {
         "value": "What are you craving?",
         "type": "text"
+      },
+      "brand": {
+        "value": "UberEats",
+        "type": "text"
       }
     }
   }

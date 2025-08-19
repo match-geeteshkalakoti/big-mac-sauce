@@ -111,8 +111,8 @@
       "semantic.color.onPrimary": "9003ca3f6a57d54a2cb2cbaff7c052638e847f74",
       "semantic.color.primaryVariant": "7145a6d9374fc5730a2388e9edde7e81a58d6b03",
       "semantic.color.onPrimaryVariant": "5797d458f6d64c42fb1473ffda283cb7ac072f6c",
-      "map.borderRadius": "138f60dd07abfd03e68b7a12dbb35d7646e4d6c2",
-      "semantic.text.brand": "917f67361e1fceff04d1f8896420e3ed830e1044"
+      "semantic.text.brand": "917f67361e1fceff04d1f8896420e3ed830e1044",
+      "map.borderRadius": "138f60dd07abfd03e68b7a12dbb35d7646e4d6c2"
     }
   },
   {
@@ -151,8 +151,8 @@
       "semantic.color.onPrimary": "9003ca3f6a57d54a2cb2cbaff7c052638e847f74",
       "semantic.color.primaryVariant": "7145a6d9374fc5730a2388e9edde7e81a58d6b03",
       "semantic.color.onPrimaryVariant": "5797d458f6d64c42fb1473ffda283cb7ac072f6c",
-      "map.borderRadius": "138f60dd07abfd03e68b7a12dbb35d7646e4d6c2",
-      "semantic.text.brand": "917f67361e1fceff04d1f8896420e3ed830e1044"
+      "semantic.text.brand": "917f67361e1fceff04d1f8896420e3ed830e1044",
+      "map.borderRadius": "138f60dd07abfd03e68b7a12dbb35d7646e4d6c2"
     }
   }
 ]

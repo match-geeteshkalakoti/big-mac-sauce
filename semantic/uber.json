@@ -25,6 +25,12 @@
         "value": "{brand.color.black.100}",
         "type": "color"
       }
+    },
+    "text": {
+      "brand": {
+        "value": "{mode.text.brand}",
+        "type": "text"
+      }
     }
   }
 }
