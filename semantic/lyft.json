@@ -28,7 +28,7 @@
     },
     "text": {
       "brand": {
-        "value": "E2",
+        "value": "Lyft",
         "type": "text"
       }
     },
@@ -59,7 +59,7 @@
           "lineHeight": "10"
         },
         "type": "typography"
-      }, 
+      },
       "caption": {
         "value": {
           "fontFamily": "Roboto",

@@ -1,20 +1,20 @@
 {
   "comp": {
     "search": {
-        "hint": {
-            "value": "{mode.text.search}",
-            "type": "text"
-        },
-        "borderRadius": {
-            "value": "4",
-            "type": "borderRadius"
-        }
-    }
-  },
-  "map": {
-    "borderRadius": {
-      "value": "8",
-      "type": "borderRadius"
+      "hint": {
+        "value": "{mode.text.search}",
+        "type": "text"
+      },
+      "borderRadius": {
+        "value": "4",
+        "type": "borderRadius"
+      }
+    },
+    "map": {
+      "borderRadius": {
+        "value": "8",
+        "type": "borderRadius"
+      }
     }
   }
 }

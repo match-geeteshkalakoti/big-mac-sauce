@@ -1,14 +1,14 @@
 {
   "comp": {
     "search": {
-        "hint": {
-            "value": "Where are you headed?",
-            "type": "text"
-        },
-        "borderRadius": {
-            "value": "20",
-            "type": "borderRadius"
-        }
+      "hint": {
+        "value": "Where are you headed?",
+        "type": "text"
+      },
+      "borderRadius": {
+        "value": "20",
+        "type": "borderRadius"
+      }
     }
   },
   "map": {

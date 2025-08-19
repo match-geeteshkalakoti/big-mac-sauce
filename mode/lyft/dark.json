@@ -1,22 +1,22 @@
 {
-    "mode": {
-        "color": {
-            "background": {
-                "value": "{brand.color.darkGray.100}",
-                "type": "color"
-            },
-            "onBackground": {
-                "value": "{brand.color.white.100}",
-                "type": "color"
-            },
-            "primaryVariant": {
-                "value": "{brand.color.lightGray.100}",
-                "type": "color"
-            },
-            "onPrimaryVariant": {
-                "value": "{brand.color.white.100}",
-                "type": "color"
-            }
-        }
+  "mode": {
+    "color": {
+      "background": {
+        "value": "{brand.color.darkGray.100}",
+        "type": "color"
+      },
+      "onBackground": {
+        "value": "{brand.color.white.100}",
+        "type": "color"
+      },
+      "primaryVariant": {
+        "value": "{brand.color.lightGray.100}",
+        "type": "color"
+      },
+      "onPrimaryVariant": {
+        "value": "{brand.color.white.100}",
+        "type": "color"
+      }
     }
+  }
 }

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "21029b842f86478653de76b502b694912aa7a86f",
+    "name": "e2",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "comp/e2": "enabled",
+      "semantic/e2": "enabled"
+    },
+    "group": "main",
+    "$figmaCollectionId": "VariableCollectionId:4:2",
+    "$figmaModeId": "4:0",
+    "$figmaVariableReferences": {
+      "comp.search.hint": "afd3e65fe5f4f8db939364afffafb68d9604626a",
+      "comp.search.borderRadius": "c0b04fedd7a3601348df6a131714386ca77c2d34",
+      "comp.map.borderRadius": "95d42248dc51847e8a77cf705510fc8cc6c3c348",
+      "semantic.color.background": "ef9355071bf8efce5591cbf25f44b05e0efe9b79",
+      "semantic.color.onBackground": "6ed8b3c14bd189f7f04dd918f9350e8756460ddc",
+      "semantic.color.primary": "726959b2ad6b9d03161670cd5bd900d824f656e3",
+      "semantic.color.onPrimary": "9003ca3f6a57d54a2cb2cbaff7c052638e847f74",
+      "semantic.color.primaryVariant": "7145a6d9374fc5730a2388e9edde7e81a58d6b03",
+      "semantic.color.onPrimaryVariant": "5797d458f6d64c42fb1473ffda283cb7ac072f6c",
+      "semantic.text.brand": "917f67361e1fceff04d1f8896420e3ed830e1044"
+    }
+  },
+  {
+    "id": "6280a3060c8e9ed960b73a85a792af6ae053342f",
+    "name": "uber/taxi",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/uber": "source",
+      "comp/uber": "enabled",
+      "mode/uber/taxi": "source",
+      "semantic/uber": "enabled",
+      "comp/e2": "enabled",
+      "semantic/e2": "enabled"
+    },
+    "group": "main",
+    "$figmaCollectionId": "VariableCollectionId:4:2",
+    "$figmaModeId": "4:1",
+    "$figmaVariableReferences": {
+      "comp.search.hint": "afd3e65fe5f4f8db939364afffafb68d9604626a",
+      "comp.search.borderRadius": "c0b04fedd7a3601348df6a131714386ca77c2d34",
+      "semantic.color.background": "ef9355071bf8efce5591cbf25f44b05e0efe9b79",
+      "semantic.color.onBackground": "6ed8b3c14bd189f7f04dd918f9350e8756460ddc",
+      "semantic.color.primary": "726959b2ad6b9d03161670cd5bd900d824f656e3",
+      "semantic.color.onPrimary": "9003ca3f6a57d54a2cb2cbaff7c052638e847f74",
+      "semantic.color.primaryVariant": "7145a6d9374fc5730a2388e9edde7e81a58d6b03",
+      "semantic.color.onPrimaryVariant": "5797d458f6d64c42fb1473ffda283cb7ac072f6c",
+      "semantic.text.brand": "917f67361e1fceff04d1f8896420e3ed830e1044",
+      "comp.map.borderRadius": "95d42248dc51847e8a77cf705510fc8cc6c3c348"
+    }
+  },
+  {
+    "id": "3081fec11488972e7f90d79e428ccc5f8e9d48be",
+    "name": "uber/food",
+    "$figmaStyleReferences": {
+      "semantic.color.background": "S:a9723c7087ec82d8dc039929bb2cf25fc582d153,",
+      "semantic.color.onBackground": "S:53dcb74df4e76b7040e852959161a26098ad2638,",
+      "semantic.color.primary": "S:5313926706ad55cf1bae937cf39aa71f8bb304c6,",
+      "semantic.color.onPrimary": "S:4ba49f2fbf1ad112a8e412c110d00a8656656d82,",
+      "semantic.color.primaryVariant": "S:5a840c86ead30947f6632d32235c317d77cd50c7,",
+      "semantic.color.onPrimaryVariant": "S:2b670b6b73bbea1ecd1e822a358a8700d5048979,"
+    },
+    "selectedTokenSets": {
+      "brand/uber": "source",
+      "comp/uber": "enabled",
+      "mode/uber/food": "source",
+      "semantic/uber": "enabled",
+      "comp/e2": "enabled",
+      "semantic/e2": "enabled"
+    },
+    "group": "main",
+    "$figmaCollectionId": "VariableCollectionId:4:2",
+    "$figmaModeId": "4:2",
+    "$figmaVariableReferences": {
+      "comp.search.hint": "afd3e65fe5f4f8db939364afffafb68d9604626a",
+      "comp.search.borderRadius": "c0b04fedd7a3601348df6a131714386ca77c2d34",
+      "semantic.color.background": "ef9355071bf8efce5591cbf25f44b05e0efe9b79",
+      "semantic.color.onBackground": "6ed8b3c14bd189f7f04dd918f9350e8756460ddc",
+      "semantic.color.primary": "726959b2ad6b9d03161670cd5bd900d824f656e3",
+      "semantic.color.onPrimary": "9003ca3f6a57d54a2cb2cbaff7c052638e847f74",
+      "semantic.color.primaryVariant": "7145a6d9374fc5730a2388e9edde7e81a58d6b03",
+      "semantic.color.onPrimaryVariant": "5797d458f6d64c42fb1473ffda283cb7ac072f6c",
+      "semantic.text.brand": "917f67361e1fceff04d1f8896420e3ed830e1044",
+      "comp.map.borderRadius": "95d42248dc51847e8a77cf705510fc8cc6c3c348"
+    }
+  },
+  {
+    "id": "7a0ee53024bec229f758a3cbc0de18bc520ab22b",
+    "name": "lyft/light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/lyft": "source",
+      "comp/e2": "enabled",
+      "comp/lyft": "enabled",
+      "mode/lyft/light": "source",
+      "semantic/lyft": "enabled",
+      "semantic/e2": "enabled"
+    },
+    "group": "main",
+    "$figmaCollectionId": "VariableCollectionId:4:2",
+    "$figmaModeId": "4:3",
+    "$figmaVariableReferences": {
+      "comp.search.hint": "afd3e65fe5f4f8db939364afffafb68d9604626a",
+      "comp.search.borderRadius": "c0b04fedd7a3601348df6a131714386ca77c2d34",
+      "comp.map.borderRadius": "95d42248dc51847e8a77cf705510fc8cc6c3c348",
+      "semantic.color.background": "ef9355071bf8efce5591cbf25f44b05e0efe9b79",
+      "semantic.color.onBackground": "6ed8b3c14bd189f7f04dd918f9350e8756460ddc",
+      "semantic.color.primary": "726959b2ad6b9d03161670cd5bd900d824f656e3",
+      "semantic.color.onPrimary": "9003ca3f6a57d54a2cb2cbaff7c052638e847f74",
+      "semantic.color.primaryVariant": "7145a6d9374fc5730a2388e9edde7e81a58d6b03",
+      "semantic.color.onPrimaryVariant": "5797d458f6d64c42fb1473ffda283cb7ac072f6c",
+      "map.borderRadius": "138f60dd07abfd03e68b7a12dbb35d7646e4d6c2",
+      "semantic.text.brand": "917f67361e1fceff04d1f8896420e3ed830e1044"
+    }
+  },
+  {
+    "id": "2c01918bfc52ece725b218475565e0d9bb81b90a",
+    "name": "lyft/dark",
+    "$figmaStyleReferences": {
+      "semantic.color.background": "S:a9723c7087ec82d8dc039929bb2cf25fc582d153,",
+      "semantic.color.onBackground": "S:53dcb74df4e76b7040e852959161a26098ad2638,",
+      "semantic.color.primary": "S:5313926706ad55cf1bae937cf39aa71f8bb304c6,",
+      "semantic.color.onPrimary": "S:4ba49f2fbf1ad112a8e412c110d00a8656656d82,",
+      "semantic.color.primaryVariant": "S:5a840c86ead30947f6632d32235c317d77cd50c7,",
+      "semantic.color.onPrimaryVariant": "S:2b670b6b73bbea1ecd1e822a358a8700d5048979,",
+      "semantic.typography.display": "S:9f5241daa53396dec366ee73dd0e332a122285f5,",
+      "semantic.typography.title": "S:e9c7fdb4b8b2b5a18cb222d3e9682ef2cd3e0a93,",
+      "semantic.typography.body": "S:82d15fe00785e690ac24c541bcc6d5ede018eaf5,",
+      "semantic.typography.caption": "S:cc58a5d56004889203a5f329ab5512a6af2b2c47,"
+    },
+    "selectedTokenSets": {
+      "brand/lyft": "source",
+      "comp/e2": "enabled",
+      "comp/lyft": "enabled",
+      "mode/lyft/dark": "source",
+      "semantic/e2": "enabled",
+      "semantic/lyft": "enabled"
+    },
+    "group": "main",
+    "$figmaCollectionId": "VariableCollectionId:4:2",
+    "$figmaModeId": "4:4",
+    "$figmaVariableReferences": {
+      "comp.search.hint": "afd3e65fe5f4f8db939364afffafb68d9604626a",
+      "comp.search.borderRadius": "c0b04fedd7a3601348df6a131714386ca77c2d34",
+      "comp.map.borderRadius": "95d42248dc51847e8a77cf705510fc8cc6c3c348",
+      "semantic.color.background": "ef9355071bf8efce5591cbf25f44b05e0efe9b79",
+      "semantic.color.onBackground": "6ed8b3c14bd189f7f04dd918f9350e8756460ddc",
+      "semantic.color.primary": "726959b2ad6b9d03161670cd5bd900d824f656e3",
+      "semantic.color.onPrimary": "9003ca3f6a57d54a2cb2cbaff7c052638e847f74",
+      "semantic.color.primaryVariant": "7145a6d9374fc5730a2388e9edde7e81a58d6b03",
+      "semantic.color.onPrimaryVariant": "5797d458f6d64c42fb1473ffda283cb7ac072f6c",
+      "map.borderRadius": "138f60dd07abfd03e68b7a12dbb35d7646e4d6c2",
+      "semantic.text.brand": "917f67361e1fceff04d1f8896420e3ed830e1044"
+    }
+  }
+]
