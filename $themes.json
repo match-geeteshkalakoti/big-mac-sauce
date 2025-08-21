@@ -13,6 +13,7 @@
     "$figmaVariableReferences": {
       "comp.search.hint": "afd3e65fe5f4f8db939364afffafb68d9604626a",
       "comp.search.borderRadius": "c0b04fedd7a3601348df6a131714386ca77c2d34",
+      "comp.search.color.background": "a6ef8e139eaf76fa05ff85c81d69721b26148782",
       "comp.map.borderRadius": "95d42248dc51847e8a77cf705510fc8cc6c3c348",
       "semantic.color.background": "ef9355071bf8efce5591cbf25f44b05e0efe9b79",
       "semantic.color.onBackground": "6ed8b3c14bd189f7f04dd918f9350e8756460ddc",
@@ -41,6 +42,7 @@
     "$figmaVariableReferences": {
       "comp.search.hint": "afd3e65fe5f4f8db939364afffafb68d9604626a",
       "comp.search.borderRadius": "c0b04fedd7a3601348df6a131714386ca77c2d34",
+      "comp.search.color.background": "a6ef8e139eaf76fa05ff85c81d69721b26148782",
       "semantic.color.background": "ef9355071bf8efce5591cbf25f44b05e0efe9b79",
       "semantic.color.onBackground": "6ed8b3c14bd189f7f04dd918f9350e8756460ddc",
       "semantic.color.primary": "726959b2ad6b9d03161670cd5bd900d824f656e3",
@@ -76,6 +78,7 @@
     "$figmaVariableReferences": {
       "comp.search.hint": "afd3e65fe5f4f8db939364afffafb68d9604626a",
       "comp.search.borderRadius": "c0b04fedd7a3601348df6a131714386ca77c2d34",
+      "comp.search.color.background": "a6ef8e139eaf76fa05ff85c81d69721b26148782",
       "semantic.color.background": "ef9355071bf8efce5591cbf25f44b05e0efe9b79",
       "semantic.color.onBackground": "6ed8b3c14bd189f7f04dd918f9350e8756460ddc",
       "semantic.color.primary": "726959b2ad6b9d03161670cd5bd900d824f656e3",
@@ -112,6 +115,7 @@
       "semantic.color.primaryVariant": "7145a6d9374fc5730a2388e9edde7e81a58d6b03",
       "semantic.color.onPrimaryVariant": "5797d458f6d64c42fb1473ffda283cb7ac072f6c",
       "semantic.text.brand": "917f67361e1fceff04d1f8896420e3ed830e1044",
+      "comp.search.color.background": "a6ef8e139eaf76fa05ff85c81d69721b26148782",
       "map.borderRadius": "138f60dd07abfd03e68b7a12dbb35d7646e4d6c2"
     }
   },
@@ -128,7 +132,9 @@
       "semantic.typography.display": "S:9f5241daa53396dec366ee73dd0e332a122285f5,",
       "semantic.typography.title": "S:e9c7fdb4b8b2b5a18cb222d3e9682ef2cd3e0a93,",
       "semantic.typography.body": "S:82d15fe00785e690ac24c541bcc6d5ede018eaf5,",
-      "semantic.typography.caption": "S:cc58a5d56004889203a5f329ab5512a6af2b2c47,"
+      "semantic.typography.caption": "S:cc58a5d56004889203a5f329ab5512a6af2b2c47,",
+      "comp.search.dropShadow": "S:c0054c95f8eec47772d2c2df9d2829cd2638dff8,",
+      "comp.search.color.background": "S:e4e6082b45e681ab79cb1d92913a024012f17311,"
     },
     "selectedTokenSets": {
       "brand/lyft": "source",
@@ -152,6 +158,7 @@
       "semantic.color.primaryVariant": "7145a6d9374fc5730a2388e9edde7e81a58d6b03",
       "semantic.color.onPrimaryVariant": "5797d458f6d64c42fb1473ffda283cb7ac072f6c",
       "semantic.text.brand": "917f67361e1fceff04d1f8896420e3ed830e1044",
+      "comp.search.color.background": "a6ef8e139eaf76fa05ff85c81d69721b26148782",
       "map.borderRadius": "138f60dd07abfd03e68b7a12dbb35d7646e4d6c2"
     }
   }

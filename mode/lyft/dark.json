@@ -16,6 +16,10 @@
       "onPrimaryVariant": {
         "value": "{brand.color.white.100}",
         "type": "color"
+      },
+      "searchBackground": {
+        "value": "{brand.color.lightGray.100}",
+        "type": "color"
       }
     }
   }

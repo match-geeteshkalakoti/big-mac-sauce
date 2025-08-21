@@ -10,11 +10,15 @@
         "type": "color"
       },
       "primaryVariant": {
-        "value": "{brand.color.white.100}",
+        "value": "{brand.color.lightGray.100}",
         "type": "color"
       },
       "onPrimaryVariant": {
         "value": "{brand.color.black.100}",
+        "type": "color"
+      },
+      "searchBackground": {
+        "value": "{brand.color.white.100}",
         "type": "color"
       }
     }

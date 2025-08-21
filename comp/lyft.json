@@ -8,6 +8,12 @@
       "borderRadius": {
         "value": "20",
         "type": "borderRadius"
+      },
+      "color": {
+        "background": {
+          "value": "{mode.color.searchBackground}",
+          "type": "color"
+        }
       }
     }
   },

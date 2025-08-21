@@ -8,6 +8,12 @@
       "hint": {
         "value": "Search",
         "type": "text"
+      },
+      "color": {
+        "background": {
+          "value": "{semantic.color.primaryVariant}",
+          "type": "color"
+        }
       }
     },
     "map": {
