@@ -31,6 +31,44 @@
         "value": "{mode.text.brand}",
         "type": "text"
       }
+    },
+    "typography": {
+      "display": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontSize": "24",
+          "fontWeight": "Regular",
+          "lineHeight": "24"
+        },
+        "type": "typography"
+      },
+      "title": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontSize": "12",
+          "fontWeight": "Regular",
+          "lineHeight": "12"
+        },
+        "type": "typography"
+      },
+      "body": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontSize": "10",
+          "fontWeight": "Regular",
+          "lineHeight": "10"
+        },
+        "type": "typography"
+      },
+      "caption": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontSize": "9",
+          "fontWeight": "Regular",
+          "lineHeight": "10"
+        },
+        "type": "typography"
+      }
     }
   }
 }

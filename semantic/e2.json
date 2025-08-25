@@ -70,20 +70,5 @@
         "type": "typography"
       }
     }
-  },
-  "comp": {
-    "search": {
-      "dropShadow": {
-        "value": {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "0",
-          "color": "#000000",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      }
-    }
   }
 }
