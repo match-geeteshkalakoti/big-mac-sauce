@@ -2,7 +2,18 @@
   {
     "id": "21029b842f86478653de76b502b694912aa7a86f",
     "name": "e2",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "semantic.color.background": "S:a9723c7087ec82d8dc039929bb2cf25fc582d153,",
+      "semantic.color.onBackground": "S:53dcb74df4e76b7040e852959161a26098ad2638,",
+      "semantic.color.primary": "S:5313926706ad55cf1bae937cf39aa71f8bb304c6,",
+      "semantic.color.onPrimary": "S:4ba49f2fbf1ad112a8e412c110d00a8656656d82,",
+      "semantic.color.primaryVariant": "S:5a840c86ead30947f6632d32235c317d77cd50c7,",
+      "semantic.color.onPrimaryVariant": "S:2b670b6b73bbea1ecd1e822a358a8700d5048979,",
+      "semantic.typography.display": "S:9f5241daa53396dec366ee73dd0e332a122285f5,",
+      "semantic.typography.title": "S:e9c7fdb4b8b2b5a18cb222d3e9682ef2cd3e0a93,",
+      "semantic.typography.body": "S:82d15fe00785e690ac24c541bcc6d5ede018eaf5,",
+      "semantic.typography.caption": "S:cc58a5d56004889203a5f329ab5512a6af2b2c47,"
+    },
     "selectedTokenSets": {
       "comp/e2": "enabled",
       "semantic/e2": "enabled"
@@ -33,10 +44,8 @@
       "comp/uber": "enabled",
       "mode/uber/taxi": "source",
       "semantic/uber": "enabled",
-      "comp/e2": "enabled",
-      "semantic/e2": "enabled"
+      "comp/e2": "enabled"
     },
-    "group": "main",
     "$figmaCollectionId": "VariableCollectionId:4:2",
     "$figmaModeId": "4:1",
     "$figmaVariableReferences": {
@@ -51,7 +60,8 @@
       "semantic.color.onPrimaryVariant": "5797d458f6d64c42fb1473ffda283cb7ac072f6c",
       "semantic.text.brand": "917f67361e1fceff04d1f8896420e3ed830e1044",
       "comp.map.borderRadius": "95d42248dc51847e8a77cf705510fc8cc6c3c348"
-    }
+    },
+    "group": "main"
   },
   {
     "id": "3081fec11488972e7f90d79e428ccc5f8e9d48be",
@@ -62,17 +72,19 @@
       "semantic.color.primary": "S:5313926706ad55cf1bae937cf39aa71f8bb304c6,",
       "semantic.color.onPrimary": "S:4ba49f2fbf1ad112a8e412c110d00a8656656d82,",
       "semantic.color.primaryVariant": "S:5a840c86ead30947f6632d32235c317d77cd50c7,",
-      "semantic.color.onPrimaryVariant": "S:2b670b6b73bbea1ecd1e822a358a8700d5048979,"
+      "semantic.color.onPrimaryVariant": "S:2b670b6b73bbea1ecd1e822a358a8700d5048979,",
+      "semantic.typography.display": "S:9f5241daa53396dec366ee73dd0e332a122285f5,",
+      "semantic.typography.title": "S:e9c7fdb4b8b2b5a18cb222d3e9682ef2cd3e0a93,",
+      "semantic.typography.body": "S:82d15fe00785e690ac24c541bcc6d5ede018eaf5,",
+      "semantic.typography.caption": "S:cc58a5d56004889203a5f329ab5512a6af2b2c47,"
     },
     "selectedTokenSets": {
       "brand/uber": "source",
       "comp/uber": "enabled",
       "mode/uber/food": "source",
       "semantic/uber": "enabled",
-      "comp/e2": "enabled",
-      "semantic/e2": "enabled"
+      "comp/e2": "enabled"
     },
-    "group": "main",
     "$figmaCollectionId": "VariableCollectionId:4:2",
     "$figmaModeId": "4:2",
     "$figmaVariableReferences": {
@@ -87,7 +99,8 @@
       "semantic.color.onPrimaryVariant": "5797d458f6d64c42fb1473ffda283cb7ac072f6c",
       "semantic.text.brand": "917f67361e1fceff04d1f8896420e3ed830e1044",
       "comp.map.borderRadius": "95d42248dc51847e8a77cf705510fc8cc6c3c348"
-    }
+    },
+    "group": "main"
   },
   {
     "id": "7a0ee53024bec229f758a3cbc0de18bc520ab22b",
@@ -98,10 +111,8 @@
       "comp/e2": "enabled",
       "comp/lyft": "enabled",
       "mode/lyft/light": "source",
-      "semantic/lyft": "enabled",
-      "semantic/e2": "enabled"
+      "semantic/lyft": "enabled"
     },
-    "group": "main",
     "$figmaCollectionId": "VariableCollectionId:4:2",
     "$figmaModeId": "4:3",
     "$figmaVariableReferences": {
@@ -117,7 +128,8 @@
       "semantic.text.brand": "917f67361e1fceff04d1f8896420e3ed830e1044",
       "comp.search.color.background": "a6ef8e139eaf76fa05ff85c81d69721b26148782",
       "map.borderRadius": "138f60dd07abfd03e68b7a12dbb35d7646e4d6c2"
-    }
+    },
+    "group": "main"
   },
   {
     "id": "2c01918bfc52ece725b218475565e0d9bb81b90a",
@@ -141,10 +153,8 @@
       "comp/e2": "enabled",
       "comp/lyft": "enabled",
       "mode/lyft/dark": "source",
-      "semantic/e2": "enabled",
       "semantic/lyft": "enabled"
     },
-    "group": "main",
     "$figmaCollectionId": "VariableCollectionId:4:2",
     "$figmaModeId": "4:4",
     "$figmaVariableReferences": {
@@ -160,6 +170,7 @@
       "semantic.text.brand": "917f67361e1fceff04d1f8896420e3ed830e1044",
       "comp.search.color.background": "a6ef8e139eaf76fa05ff85c81d69721b26148782",
       "map.borderRadius": "138f60dd07abfd03e68b7a12dbb35d7646e4d6c2"
-    }
+    },
+    "group": "main"
   }
 ]
