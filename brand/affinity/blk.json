@@ -1,0 +1,52 @@
+{
+    "brand": {
+        "color": {
+            "red": {
+                "5": {
+                    "value": "#fef5f4",
+                    "type": "color"
+                },
+                "10": {
+                    "value": "#fde0de",
+                    "type": "color"
+                },
+                "20": {
+                    "value": "#fbc0bc",
+                    "type": "color"
+                },
+                "30": {
+                    "value": "#faa19b",
+                    "type": "color"
+                },
+                "40": {
+                    "value": "#f88279",
+                    "type": "color"
+                },
+                "50": {
+                    "value": "#f44336",
+                    "type": "color"
+                },
+                "60": {
+                    "value": "#d4190c",
+                    "type": "color"
+                },
+                "70": {
+                    "value": "#b8150a",
+                    "type": "color"
+                },
+                "80": {
+                    "value": "#76120b",
+                    "type": "color"
+                },
+                "90": {
+                    "value": "#3e0804",
+                    "type": "color"
+                },
+                "95": {
+                    "value": "#1e0402",
+                    "type": "color"
+                }
+            }
+        }
+    }
+}

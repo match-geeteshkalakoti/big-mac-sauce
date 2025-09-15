@@ -1,45 +1,16 @@
 {
-  "comp": {
-    "search": {
-      "borderRadius": {
-        "value": "0",
-        "type": "borderRadius"
-      },
-      "hint": {
-        "value": "Search",
-        "type": "text"
-      },
-      "color": {
-        "background": {
-          "value": "{semantic.color.primaryVariant}",
-          "type": "color"
+    "comp": {
+        "card": {
+            "color": {
+                "background": {
+                    "value": "{semantic.color.primary}",
+                    "type": "color"
+                },
+                "text": {
+                    "value": "{semantic.color.onPrimary}",
+                    "type": "color"
+                }
+            }
         }
-      },
-      "dropShadow": {
-        "value": {
-          "x": "0",
-          "y": "0",
-          "blur": "0",
-          "spread": "0",
-          "color": "#000000",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      }
-    },
-    "map": {
-      "borderRadius": {
-        "value": "0",
-        "type": "borderRadius"
-      },
-      "border": {
-        "value": {
-          "color": "{semantic.color.primaryVariant}",
-          "width": "1",
-          "style": "solid"
-        },
-        "type": "border"
-      }
     }
-  }
 }

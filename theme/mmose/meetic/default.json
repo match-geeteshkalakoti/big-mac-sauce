@@ -1,0 +1,22 @@
+{
+    "semantic": {
+        "color": {
+            "background": {
+                "value": "{brand.color.white}",
+                "type": "color"
+            },
+            "onBackground": {
+                "value": "{brand.color.black}",
+                "type": "color"
+            },
+            "primary": {
+                "value": "{brand.color.pink.95}",
+                "type": "color"
+            },
+            "onPrimary": {
+                "value": "{brand.color.white}",
+                "type": "color"
+            }
+        }
+    }
+}

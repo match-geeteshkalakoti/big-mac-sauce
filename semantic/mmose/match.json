@@ -1,0 +1,24 @@
+{
+    "semantic": {
+        "typography": {
+            "title": {
+                "value": {
+                    "fontFamily": "Reckless Neue",
+                    "fontWeight": "Medium",
+                    "lineHeight": "32",
+                    "fontSize": "28"
+                },
+                "type": "typography"
+            },
+            "body": {
+                "value": {
+                    "fontFamily": "Beausite",
+                    "fontWeight": "Regular",
+                    "lineHeight": "20",
+                    "fontSize": "16"
+                },
+                "type": "typography"
+            }
+        }
+    }
+}

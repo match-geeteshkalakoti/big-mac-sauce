@@ -1,74 +1,42 @@
 {
-  "semantic": {
-    "color": {
-      "background": {
-        "value": "#FFFFFF",
-        "type": "color"
-      },
-      "onBackground": {
-        "value": "#000000",
-        "type": "color"
-      },
-      "primary": {
-        "value": "#000000",
-        "type": "color"
-      },
-      "onPrimary": {
-        "value": "#FFFFFF",
-        "type": "color"
-      },
-      "primaryVariant": {
-        "value": "#C3C3C3",
-        "type": "color"
-      },
-      "onPrimaryVariant": {
-        "value": "#FFFFFF",
-        "type": "color"
-      }
-    },
-    "text": {
-      "brand": {
-        "value": "E2",
-        "type": "text"
-      }
-    },
-    "typography": {
-      "display": {
-        "value": {
-          "fontFamily": "Inter",
-          "fontSize": "24",
-          "fontWeight": "Regular",
-          "lineHeight": "24"
+    "semantic": {
+        "color": {
+            "background": {
+                "value": "#FFFFFF",
+                "type": "color"
+            },
+            "onBackground": {
+                "value": "#FFFFFF",
+                "type": "color"
+            },
+            "primary": {
+                "value": "#FFFFFF",
+                "type": "color"
+            },
+            "onPrimary": {
+                "value": "#FFFFFF",
+                "type": "color"
+            }
         },
-        "type": "typography"
-      },
-      "title": {
-        "value": {
-          "fontFamily": "Inter",
-          "fontSize": "12",
-          "fontWeight": "Regular",
-          "lineHeight": "12"
-        },
-        "type": "typography"
-      },
-      "body": {
-        "value": {
-          "fontFamily": "Inter",
-          "fontSize": "10",
-          "fontWeight": "Regular",
-          "lineHeight": "10"
-        },
-        "type": "typography"
-      },
-      "caption": {
-        "value": {
-          "fontFamily": "Inter",
-          "fontSize": "9",
-          "fontWeight": "Regular",
-          "lineHeight": "10"
-        },
-        "type": "typography"
-      }
+        "typography": {
+            "title": {
+                "value": {
+                    "fontFamily": "Arial",
+                    "fontWeight": "Bold",
+                    "lineHeight": "32",
+                    "fontSize": "28"
+                },
+                "type": "typography"
+            },
+            "body": {
+                "value": {
+                    "fontFamily": "Arial",
+                    "fontWeight": "Regular",
+                    "lineHeight": "20",
+                    "fontSize": "16"
+                },
+                "type": "typography"
+            }
+        }
     }
-  }
 }
