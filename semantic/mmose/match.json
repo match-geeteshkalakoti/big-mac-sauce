@@ -12,8 +12,8 @@
       },
       "body": {
         "value": {
-          "fontFamily": "Beausite",
-          "fontWeight": "Regular",
+          "fontFamily": "Beausite Classic",
+          "fontWeight": "Clear",
           "lineHeight": "20",
           "fontSize": "16"
         },
