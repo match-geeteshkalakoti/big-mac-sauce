@@ -1,24 +1,24 @@
 {
-    "semantic": {
-        "typography": {
-            "title": {
-                "value": {
-                    "fontFamily": "Inter",
-                    "fontWeight": "Medium",
-                    "lineHeight": "40",
-                    "fontSize": "36"
-                },
-                "type": "typography"
-            },
-            "body": {
-                "value": {
-                    "fontFamily": "Inter",
-                    "fontWeight": "Regular",
-                    "lineHeight": "24",
-                    "fontSize": "24"
-                },
-                "type": "typography"
-            }
-        }
+  "semantic": {
+    "typography": {
+      "title": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Medium",
+          "lineHeight": "40",
+          "fontSize": "36"
+        },
+        "type": "typography"
+      },
+      "body": {
+        "value": {
+          "fontFamily": "Inter",
+          "fontWeight": "Regular",
+          "lineHeight": "24",
+          "fontSize": "24"
+        },
+        "type": "typography"
+      }
     }
+  }
 }

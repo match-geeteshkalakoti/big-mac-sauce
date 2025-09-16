@@ -1,42 +1,42 @@
 {
-    "semantic": {
-        "color": {
-            "background": {
-                "value": "#FFFFFF",
-                "type": "color"
-            },
-            "onBackground": {
-                "value": "#FFFFFF",
-                "type": "color"
-            },
-            "primary": {
-                "value": "#FFFFFF",
-                "type": "color"
-            },
-            "onPrimary": {
-                "value": "#FFFFFF",
-                "type": "color"
-            }
+  "semantic": {
+    "color": {
+      "background": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "onBackground": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "primary": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "onPrimary": {
+        "value": "#FFFFFF",
+        "type": "color"
+      }
+    },
+    "typography": {
+      "title": {
+        "value": {
+          "fontFamily": "Arial",
+          "fontWeight": "Bold",
+          "lineHeight": "32",
+          "fontSize": "28"
         },
-        "typography": {
-            "title": {
-                "value": {
-                    "fontFamily": "Arial",
-                    "fontWeight": "Bold",
-                    "lineHeight": "32",
-                    "fontSize": "28"
-                },
-                "type": "typography"
-            },
-            "body": {
-                "value": {
-                    "fontFamily": "Arial",
-                    "fontWeight": "Regular",
-                    "lineHeight": "20",
-                    "fontSize": "16"
-                },
-                "type": "typography"
-            }
-        }
+        "type": "typography"
+      },
+      "body": {
+        "value": {
+          "fontFamily": "Arial",
+          "fontWeight": "Regular",
+          "lineHeight": "20",
+          "fontSize": "16"
+        },
+        "type": "typography"
+      }
     }
+  }
 }

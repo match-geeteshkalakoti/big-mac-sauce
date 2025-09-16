@@ -1,16 +1,16 @@
 {
-    "comp": {
-        "card": {
-            "color": {
-                "background": {
-                    "value": "{semantic.color.primary}",
-                    "type": "color"
-                },
-                "text": {
-                    "value": "{semantic.color.onPrimary}",
-                    "type": "color"
-                }
-            }
+  "comp": {
+    "card": {
+      "color": {
+        "background": {
+          "value": "{semantic.color.primary}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{semantic.color.onPrimary}",
+          "type": "color"
         }
+      }
     }
+  }
 }

@@ -1,22 +1,22 @@
 {
-    "semantic": {
-        "color": {
-            "background": {
-                "value": "{brand.color.black}",
-                "type": "color"
-            },
-            "onBackground": {
-                "value": "{brand.color.white}",
-                "type": "color"
-            },
-            "primary": {
-                "value": "{brand.color.red.70}",
-                "type": "color"
-            },
-            "onPrimary": {
-                "value": "{brand.color.white}",
-                "type": "color"
-            }
-        }
+  "semantic": {
+    "color": {
+      "background": {
+        "value": "{brand.color.black}",
+        "type": "color"
+      },
+      "onBackground": {
+        "value": "{brand.color.white}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{brand.color.red.70}",
+        "type": "color"
+      },
+      "onPrimary": {
+        "value": "{brand.color.white}",
+        "type": "color"
+      }
     }
+  }
 }

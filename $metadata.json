@@ -1,0 +1,30 @@
+{
+  "tokenSetOrder": [
+    "brand/affinity/blk",
+    "brand/affinity/shared",
+    "brand/affinity/yuzu",
+    "brand/mmose/match",
+    "brand/mmose/meetic",
+    "brand/mmose/shared",
+    "comp/affinity/blk",
+    "comp/affinity/shared",
+    "comp/affinity/yuzu",
+    "comp/e2",
+    "comp/mmose/match",
+    "comp/mmose/meetic",
+    "comp/mmose/shared",
+    "semantic/affinity/blk",
+    "semantic/affinity/shared",
+    "semantic/affinity/yuzu",
+    "semantic/e2",
+    "semantic/mmose/match",
+    "semantic/mmose/meetic",
+    "semantic/mmose/shared",
+    "theme/affinity/blk/dark",
+    "theme/affinity/blk/light",
+    "theme/affinity/yuzu/dark",
+    "theme/affinity/yuzu/light",
+    "theme/mmose/match/default",
+    "theme/mmose/meetic/default"
+  ]
+}
