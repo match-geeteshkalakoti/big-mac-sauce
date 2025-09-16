@@ -10,7 +10,7 @@
         "type": "color"
       },
       "primary": {
-        "value": "{brand.color.red.95}",
+        "value": "{brand.color.red.60}",
         "type": "color"
       },
       "onPrimary": {

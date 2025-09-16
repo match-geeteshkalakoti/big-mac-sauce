@@ -19,7 +19,9 @@
       "semantic/mmose/match": "enabled",
       "semantic/mmose/shared": "enabled",
       "theme/mmose/match/default": "enabled",
-      "comp/e2": "enabled"
+      "comp/e2": "enabled",
+      "theme/affinity/yuzu/dark": "disabled",
+      "theme/affinity/yuzu/light": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3:7",
     "$figmaModeId": "3:0",
@@ -53,7 +55,9 @@
       "semantic/e2": "enabled",
       "semantic/mmose/meetic": "enabled",
       "semantic/mmose/shared": "enabled",
-      "theme/mmose/meetic/default": "enabled"
+      "theme/mmose/meetic/default": "enabled",
+      "theme/affinity/yuzu/dark": "disabled",
+      "theme/affinity/yuzu/light": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3:8",
     "$figmaModeId": "3:1",
@@ -85,7 +89,9 @@
       "semantic/affinity/blk": "enabled",
       "semantic/affinity/shared": "enabled",
       "semantic/e2": "enabled",
-      "theme/affinity/blk/light": "enabled"
+      "theme/affinity/blk/light": "enabled",
+      "theme/affinity/yuzu/dark": "disabled",
+      "theme/affinity/yuzu/light": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3:9",
     "$figmaModeId": "3:2",
@@ -117,7 +123,9 @@
       "semantic/affinity/blk": "enabled",
       "semantic/affinity/shared": "enabled",
       "semantic/e2": "enabled",
-      "theme/affinity/blk/dark": "enabled"
+      "theme/affinity/blk/dark": "enabled",
+      "theme/affinity/yuzu/dark": "disabled",
+      "theme/affinity/yuzu/light": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3:10",
     "$figmaModeId": "3:3",

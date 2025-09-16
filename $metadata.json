@@ -22,8 +22,8 @@
     "semantic/mmose/shared",
     "theme/affinity/blk/dark",
     "theme/affinity/blk/light",
-    "theme/affinity/yuzu/dark",
     "theme/affinity/yuzu/light",
+    "theme/affinity/yuzu/dark",
     "theme/mmose/match/default",
     "theme/mmose/meetic/default"
   ]

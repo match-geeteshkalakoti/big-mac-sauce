@@ -2,15 +2,15 @@
   "semantic": {
     "color": {
       "background": {
-        "value": "{brand.color.white}",
-        "type": "color"
-      },
-      "onBackground": {
         "value": "{brand.color.black}",
         "type": "color"
       },
+      "onBackground": {
+        "value": "{brand.color.white}",
+        "type": "color"
+      },
       "primary": {
-        "value": "{brand.color.orange.95}",
+        "value": "{brand.color.orange.50}",
         "type": "color"
       },
       "onPrimary": {
