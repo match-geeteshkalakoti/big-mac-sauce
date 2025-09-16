@@ -8,7 +8,9 @@
       "semantic.color.primary": "S:12b7941ee79e139c7b222d6c560cbf0619f6d75b,",
       "semantic.color.onPrimary": "S:f6b29e4441eeddad287a181ee5153cf4c82527e5,",
       "semantic.typography.title": "S:d4238405e951cc4e0945f4d1716c3113a115f18f,",
-      "semantic.typography.body": "S:01f3fb0f40d024bca5e98d206c57dd4687ebfd76,"
+      "semantic.typography.body": "S:01f3fb0f40d024bca5e98d206c57dd4687ebfd76,",
+      "comp.card.color.background": "S:3ee01532e7c7f3cb90bbe8fdd5697a63427756a5,",
+      "comp.card.color.text": "S:f7f58eee425652b822bb627c632882b6185d651f,"
     },
     "selectedTokenSets": {
       "brand/mmose/match": "source",
@@ -19,9 +21,7 @@
       "semantic/mmose/match": "enabled",
       "semantic/mmose/shared": "enabled",
       "theme/mmose/match/default": "enabled",
-      "comp/e2": "enabled",
-      "theme/affinity/yuzu/dark": "disabled",
-      "theme/affinity/yuzu/light": "disabled"
+      "comp/e2": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3:7",
     "$figmaModeId": "3:0",
@@ -55,20 +55,18 @@
       "semantic/e2": "enabled",
       "semantic/mmose/meetic": "enabled",
       "semantic/mmose/shared": "enabled",
-      "theme/mmose/meetic/default": "enabled",
-      "theme/affinity/yuzu/dark": "disabled",
-      "theme/affinity/yuzu/light": "disabled"
+      "theme/mmose/meetic/default": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3:8",
     "$figmaModeId": "3:1",
     "$figmaVariableReferences": {
       "semantic.dummy": "3e74c0edd39498c028867bb97e61ba4e3ce0763d",
+      "comp.card.color.text": "c8688d3bc7c7efb6967d2597c70d5956608161cd",
+      "comp.card.color.background": "77b62a5acfb1760d1017ec08328d41b4f177c357",
       "semantic.color.background": "bd2e21c9d36f55696c5f690834c08e7e0ab6a3ac",
       "semantic.color.onBackground": "97f1d6948f91e0866faed1367735ba35a8bb5a87",
       "semantic.color.primary": "2ae40abb2899b8f2f8f42ceee7d935cb32724d40",
-      "semantic.color.onPrimary": "76d194ca7eff19a7d77adfcbc438fd2b9842211f",
-      "comp.card.color.background": "77b62a5acfb1760d1017ec08328d41b4f177c357",
-      "comp.card.color.text": "c8688d3bc7c7efb6967d2597c70d5956608161cd"
+      "semantic.color.onPrimary": "76d194ca7eff19a7d77adfcbc438fd2b9842211f"
     }
   },
   {
@@ -89,20 +87,18 @@
       "semantic/affinity/blk": "enabled",
       "semantic/affinity/shared": "enabled",
       "semantic/e2": "enabled",
-      "theme/affinity/blk/light": "enabled",
-      "theme/affinity/yuzu/dark": "disabled",
-      "theme/affinity/yuzu/light": "disabled"
+      "theme/affinity/blk/light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3:9",
     "$figmaModeId": "3:2",
     "$figmaVariableReferences": {
       "semantic.dummy": "36564a96e1e30dd9aaf39c27122ecb30e1d5dcb4",
+      "comp.card.color.text": "b25a4eb8e8cb1838353f97e575db351bd923ffb4",
+      "comp.card.color.background": "9c7d272092379dd9cd12b0b42f1663d67d338c0b",
       "semantic.color.background": "bf4c6d27f625e7c2d27f142dc415dd7263169f91",
       "semantic.color.onBackground": "846526a493e40e6deb82a6d698ee8e59fb839ef2",
       "semantic.color.primary": "0a3f83e1f77e525457d98c21359e05727d56f18b",
-      "semantic.color.onPrimary": "c874bdb4d9d46b3fd72d3e901cca5447ebd0ffcd",
-      "comp.card.color.background": "9c7d272092379dd9cd12b0b42f1663d67d338c0b",
-      "comp.card.color.text": "b25a4eb8e8cb1838353f97e575db351bd923ffb4"
+      "semantic.color.onPrimary": "c874bdb4d9d46b3fd72d3e901cca5447ebd0ffcd"
     }
   },
   {
@@ -123,20 +119,18 @@
       "semantic/affinity/blk": "enabled",
       "semantic/affinity/shared": "enabled",
       "semantic/e2": "enabled",
-      "theme/affinity/blk/dark": "enabled",
-      "theme/affinity/yuzu/dark": "disabled",
-      "theme/affinity/yuzu/light": "disabled"
+      "theme/affinity/blk/dark": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3:10",
     "$figmaModeId": "3:3",
     "$figmaVariableReferences": {
       "semantic.dummy": "c72bdb335bb4c595d15279aae292822d5e96370d",
+      "comp.card.color.text": "bb801aa00bb90521fa358fb5d6fc8ca0846e4529",
+      "comp.card.color.background": "839205edc7fbe0b6a57b877c8a7189cdbfd71fae",
       "semantic.color.background": "05f9eb4fc8876376cfb80ff360c489503d141fb2",
       "semantic.color.onBackground": "197f9ac6a0b0fa210b97f08f582d6137720d5e95",
       "semantic.color.primary": "2ae03c9e25af9ff4e00472539e485b746a5b6f77",
-      "semantic.color.onPrimary": "897938d577ef6607c6ddad1628f6da7f6b0c366a",
-      "comp.card.color.background": "839205edc7fbe0b6a57b877c8a7189cdbfd71fae",
-      "comp.card.color.text": "bb801aa00bb90521fa358fb5d6fc8ca0846e4529"
+      "semantic.color.onPrimary": "897938d577ef6607c6ddad1628f6da7f6b0c366a"
     }
   },
   {
@@ -163,12 +157,12 @@
     "$figmaModeId": "3:4",
     "$figmaVariableReferences": {
       "semantic.dummy": "c3a9dfe864f81211457db908e76fa9aec51eca4d",
+      "comp.card.color.text": "5b36987f572bd873be06f763665e8112dccdc81e",
+      "comp.card.color.background": "37431b6b0835bffc0835ee264e0a6de3773e0b5b",
       "semantic.color.background": "3ebc307d0d4e819b9b213534e7b17bf49f8fe1bd",
       "semantic.color.onBackground": "2fa0bcb8bc19229c9ddfe14cfd732a94805354f2",
       "semantic.color.primary": "e8a50f52b15a6bde4a56f520009f3a722d1d1f43",
-      "semantic.color.onPrimary": "0f7ef39b6f5ff9fbe784a932784f20208bc3aa88",
-      "comp.card.color.background": "37431b6b0835bffc0835ee264e0a6de3773e0b5b",
-      "comp.card.color.text": "5b36987f572bd873be06f763665e8112dccdc81e"
+      "semantic.color.onPrimary": "0f7ef39b6f5ff9fbe784a932784f20208bc3aa88"
     }
   },
   {
@@ -199,12 +193,12 @@
     "$figmaModeId": "3:5",
     "$figmaVariableReferences": {
       "semantic.dummy": "80b4536d68d4425d0aa50527fcd1063f6566cfe0",
+      "comp.card.color.text": "0750eb414288d3a1da56abcd833e8d33c7fb6a48",
+      "comp.card.color.background": "181ff3887fbd4f4d05d8bf100f70e19fea0ee87f",
       "semantic.color.background": "6334326d36f8a8d29e2e09916194ec736b7a0a0c",
       "semantic.color.onBackground": "701f6cef57a4a1a461068f7e9ee52baac7dcde23",
       "semantic.color.primary": "5693278a303365ac0b9d4c77b0ca786f89cbb912",
-      "semantic.color.onPrimary": "eb75ffc91a40fc8e05537c089cffab0989afc1aa",
-      "comp.card.color.background": "181ff3887fbd4f4d05d8bf100f70e19fea0ee87f",
-      "comp.card.color.text": "0750eb414288d3a1da56abcd833e8d33c7fb6a48"
+      "semantic.color.onPrimary": "eb75ffc91a40fc8e05537c089cffab0989afc1aa"
     }
   }
 ]
