@@ -22,17 +22,18 @@
       "semantic/mmose": "enabled",
       "theme/mmose/match/match": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:3:7",
-    "$figmaModeId": "3:0",
+    "$figmaCollectionId": "VariableCollectionId:17:2",
+    "$figmaModeId": "17:10",
     "$figmaVariableReferences": {
-      "semantic.color.background": "d4eccb1c185ec01f1915e9c966a203f3e1bb003c",
-      "semantic.color.onBackground": "cb4e9de3c173e6f74305cfd3a44c3528dd01af48",
-      "semantic.color.primary": "75b37587fe4d03e09710deca189b6b920ef6d5ed",
-      "semantic.color.onPrimary": "342a33bb0019171484cc3aa180ccc968803807dd",
-      "semantic.dummy": "d03350f4d1e388f0911c48c6650987d8916a820c",
-      "comp.card.color.background": "38910b81bbbdd7243e429f5f62d327fd9fb32d31",
-      "comp.card.color.text": "cc968c30b08d78721108bf9ed933a2cd604b05cd"
-    }
+      "semantic.color.background": "b2d3625da6279caf9c5417429c4fed65c5f3b5c6",
+      "semantic.color.onBackground": "50032c930c4032e5715564fc7e2baa51dfdc7e46",
+      "semantic.color.primary": "3144df075344520068f45c718550e49595063c5d",
+      "semantic.color.onPrimary": "81fb7ad8f4aa04fe7b13f63e9e6b10761ce71b9a",
+      "semantic.dummy": "6ba6f186d8c2bdd47c435d948ed217f49467e4c1",
+      "comp.card.color.background": "c6f6306653ff5cee99f844f135f13adc8e9acdcf",
+      "comp.card.color.text": "405b710cb537480519ab3b4eccf95b4c8ecf0848"
+    },
+    "group": "main"
   },
   {
     "id": "b334055cf8013838d0bd5525464e6ef581e10675",
@@ -55,17 +56,18 @@
       "semantic/mmose": "enabled",
       "theme/mmose/meetic/meetic": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:3:8",
-    "$figmaModeId": "3:1",
+    "$figmaCollectionId": "VariableCollectionId:17:2",
+    "$figmaModeId": "17:11",
     "$figmaVariableReferences": {
-      "semantic.color.background": "bd2e21c9d36f55696c5f690834c08e7e0ab6a3ac",
-      "semantic.color.onBackground": "97f1d6948f91e0866faed1367735ba35a8bb5a87",
-      "semantic.color.primary": "2ae40abb2899b8f2f8f42ceee7d935cb32724d40",
-      "semantic.color.onPrimary": "76d194ca7eff19a7d77adfcbc438fd2b9842211f",
-      "semantic.dummy": "3e74c0edd39498c028867bb97e61ba4e3ce0763d",
-      "comp.card.color.text": "c8688d3bc7c7efb6967d2597c70d5956608161cd",
-      "comp.card.color.background": "77b62a5acfb1760d1017ec08328d41b4f177c357"
-    }
+      "semantic.color.background": "b2d3625da6279caf9c5417429c4fed65c5f3b5c6",
+      "semantic.color.onBackground": "50032c930c4032e5715564fc7e2baa51dfdc7e46",
+      "semantic.color.primary": "3144df075344520068f45c718550e49595063c5d",
+      "semantic.color.onPrimary": "81fb7ad8f4aa04fe7b13f63e9e6b10761ce71b9a",
+      "semantic.dummy": "6ba6f186d8c2bdd47c435d948ed217f49467e4c1",
+      "comp.card.color.text": "405b710cb537480519ab3b4eccf95b4c8ecf0848",
+      "comp.card.color.background": "c6f6306653ff5cee99f844f135f13adc8e9acdcf"
+    },
+    "group": "main"
   },
   {
     "id": "07935862e66a3b0c9a03ca885c9b2e557b43de27",
@@ -86,17 +88,18 @@
       "semantic/affinity": "enabled",
       "theme/affinity/blk/blk": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:3:9",
-    "$figmaModeId": "3:2",
+    "$figmaCollectionId": "VariableCollectionId:17:2",
+    "$figmaModeId": "17:12",
     "$figmaVariableReferences": {
-      "semantic.color.background": "bf4c6d27f625e7c2d27f142dc415dd7263169f91",
-      "semantic.color.onBackground": "846526a493e40e6deb82a6d698ee8e59fb839ef2",
-      "semantic.color.primary": "0a3f83e1f77e525457d98c21359e05727d56f18b",
-      "semantic.color.onPrimary": "c874bdb4d9d46b3fd72d3e901cca5447ebd0ffcd",
-      "semantic.dummy": "36564a96e1e30dd9aaf39c27122ecb30e1d5dcb4",
-      "comp.card.color.text": "b25a4eb8e8cb1838353f97e575db351bd923ffb4",
-      "comp.card.color.background": "9c7d272092379dd9cd12b0b42f1663d67d338c0b"
-    }
+      "semantic.color.background": "b2d3625da6279caf9c5417429c4fed65c5f3b5c6",
+      "semantic.color.onBackground": "50032c930c4032e5715564fc7e2baa51dfdc7e46",
+      "semantic.color.primary": "3144df075344520068f45c718550e49595063c5d",
+      "semantic.color.onPrimary": "81fb7ad8f4aa04fe7b13f63e9e6b10761ce71b9a",
+      "semantic.dummy": "6ba6f186d8c2bdd47c435d948ed217f49467e4c1",
+      "comp.card.color.text": "405b710cb537480519ab3b4eccf95b4c8ecf0848",
+      "comp.card.color.background": "c6f6306653ff5cee99f844f135f13adc8e9acdcf"
+    },
+    "group": "main"
   },
   {
     "id": "db983dd0d379d055d1019b7d50566766d8d99de6",
@@ -119,17 +122,18 @@
       "semantic/affinity": "enabled",
       "theme/affinity/blk/blk": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:3:10",
-    "$figmaModeId": "3:3",
+    "$figmaCollectionId": "VariableCollectionId:17:2",
+    "$figmaModeId": "17:13",
     "$figmaVariableReferences": {
-      "semantic.color.background": "05f9eb4fc8876376cfb80ff360c489503d141fb2",
-      "semantic.color.onBackground": "197f9ac6a0b0fa210b97f08f582d6137720d5e95",
-      "semantic.color.primary": "2ae03c9e25af9ff4e00472539e485b746a5b6f77",
-      "semantic.color.onPrimary": "897938d577ef6607c6ddad1628f6da7f6b0c366a",
-      "semantic.dummy": "c72bdb335bb4c595d15279aae292822d5e96370d",
-      "comp.card.color.text": "bb801aa00bb90521fa358fb5d6fc8ca0846e4529",
-      "comp.card.color.background": "839205edc7fbe0b6a57b877c8a7189cdbfd71fae"
-    }
+      "semantic.color.background": "b2d3625da6279caf9c5417429c4fed65c5f3b5c6",
+      "semantic.color.onBackground": "50032c930c4032e5715564fc7e2baa51dfdc7e46",
+      "semantic.color.primary": "3144df075344520068f45c718550e49595063c5d",
+      "semantic.color.onPrimary": "81fb7ad8f4aa04fe7b13f63e9e6b10761ce71b9a",
+      "semantic.dummy": "6ba6f186d8c2bdd47c435d948ed217f49467e4c1",
+      "comp.card.color.text": "405b710cb537480519ab3b4eccf95b4c8ecf0848",
+      "comp.card.color.background": "c6f6306653ff5cee99f844f135f13adc8e9acdcf"
+    },
+    "group": "main"
   },
   {
     "id": "ca5ad6c55a1abd5f5d66eccfc8f159d3d08bd8cf",
@@ -150,17 +154,18 @@
       "semantic/affinity": "enabled",
       "theme/affinity/yuzu/yuzu": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:3:11",
-    "$figmaModeId": "3:4",
+    "$figmaCollectionId": "VariableCollectionId:17:2",
+    "$figmaModeId": "17:14",
     "$figmaVariableReferences": {
-      "semantic.color.background": "3ebc307d0d4e819b9b213534e7b17bf49f8fe1bd",
-      "semantic.color.onBackground": "2fa0bcb8bc19229c9ddfe14cfd732a94805354f2",
-      "semantic.color.primary": "e8a50f52b15a6bde4a56f520009f3a722d1d1f43",
-      "semantic.color.onPrimary": "0f7ef39b6f5ff9fbe784a932784f20208bc3aa88",
-      "semantic.dummy": "c3a9dfe864f81211457db908e76fa9aec51eca4d",
-      "comp.card.color.text": "5b36987f572bd873be06f763665e8112dccdc81e",
-      "comp.card.color.background": "37431b6b0835bffc0835ee264e0a6de3773e0b5b"
-    }
+      "semantic.color.background": "b2d3625da6279caf9c5417429c4fed65c5f3b5c6",
+      "semantic.color.onBackground": "50032c930c4032e5715564fc7e2baa51dfdc7e46",
+      "semantic.color.primary": "3144df075344520068f45c718550e49595063c5d",
+      "semantic.color.onPrimary": "81fb7ad8f4aa04fe7b13f63e9e6b10761ce71b9a",
+      "semantic.dummy": "6ba6f186d8c2bdd47c435d948ed217f49467e4c1",
+      "comp.card.color.text": "405b710cb537480519ab3b4eccf95b4c8ecf0848",
+      "comp.card.color.background": "c6f6306653ff5cee99f844f135f13adc8e9acdcf"
+    },
+    "group": "main"
   },
   {
     "id": "81c28d7fd0c1ccb9c5e370b06380e51dbf759bdb",
@@ -185,16 +190,17 @@
       "semantic/affinity": "enabled",
       "theme/affinity/yuzu/yuzu": "enabled"
     },
-    "$figmaCollectionId": "VariableCollectionId:3:12",
-    "$figmaModeId": "3:5",
+    "$figmaCollectionId": "VariableCollectionId:17:2",
+    "$figmaModeId": "17:15",
     "$figmaVariableReferences": {
-      "semantic.color.background": "6334326d36f8a8d29e2e09916194ec736b7a0a0c",
-      "semantic.color.onBackground": "701f6cef57a4a1a461068f7e9ee52baac7dcde23",
-      "semantic.color.primary": "5693278a303365ac0b9d4c77b0ca786f89cbb912",
-      "semantic.color.onPrimary": "eb75ffc91a40fc8e05537c089cffab0989afc1aa",
-      "semantic.dummy": "80b4536d68d4425d0aa50527fcd1063f6566cfe0",
-      "comp.card.color.text": "0750eb414288d3a1da56abcd833e8d33c7fb6a48",
-      "comp.card.color.background": "181ff3887fbd4f4d05d8bf100f70e19fea0ee87f"
-    }
+      "semantic.color.background": "b2d3625da6279caf9c5417429c4fed65c5f3b5c6",
+      "semantic.color.onBackground": "50032c930c4032e5715564fc7e2baa51dfdc7e46",
+      "semantic.color.primary": "3144df075344520068f45c718550e49595063c5d",
+      "semantic.color.onPrimary": "81fb7ad8f4aa04fe7b13f63e9e6b10761ce71b9a",
+      "semantic.dummy": "6ba6f186d8c2bdd47c435d948ed217f49467e4c1",
+      "comp.card.color.text": "405b710cb537480519ab3b4eccf95b4c8ecf0848",
+      "comp.card.color.background": "c6f6306653ff5cee99f844f135f13adc8e9acdcf"
+    },
+    "group": "main"
   }
 ]
