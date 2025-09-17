@@ -19,12 +19,12 @@
     "theme/affinity/yuzu/yuzu",
     "theme/affinity/yuzu/light",
     "theme/affinity/yuzu/dark",
-    "semantic/affinity",
-    "semantic/e2",
-    "semantic/mmose",
+    "theme/mmose/match/default",
+    "theme/mmose/match/match",
     "theme/mmose/meetic/meetic",
     "theme/mmose/meetic/default",
-    "theme/mmose/match/default",
-    "theme/mmose/match/match"
+    "semantic/affinity",
+    "semantic/e2",
+    "semantic/mmose"
   ]
 }
