@@ -10,7 +10,9 @@
       "semantic.typography.title": "S:d4238405e951cc4e0945f4d1716c3113a115f18f,",
       "semantic.typography.body": "S:01f3fb0f40d024bca5e98d206c57dd4687ebfd76,",
       "comp.card.color.background": "S:3ee01532e7c7f3cb90bbe8fdd5697a63427756a5,",
-      "comp.card.color.text": "S:f7f58eee425652b822bb627c632882b6185d651f,"
+      "comp.card.color.text": "S:f7f58eee425652b822bb627c632882b6185d651f,",
+      "typography.title": "S:74296cf7548c6bc11cd423ccffd98da485baad7d,",
+      "typography.body": "S:ed01f2e8851edeef083992a8d20e098fbd20b82b,"
     },
     "selectedTokenSets": {
       "brand/mmose/match": "source",
@@ -25,13 +27,13 @@
     "$figmaCollectionId": "VariableCollectionId:17:2",
     "$figmaModeId": "17:10",
     "$figmaVariableReferences": {
-      "semantic.color.background": "b2d3625da6279caf9c5417429c4fed65c5f3b5c6",
-      "semantic.color.onBackground": "50032c930c4032e5715564fc7e2baa51dfdc7e46",
-      "semantic.color.primary": "3144df075344520068f45c718550e49595063c5d",
-      "semantic.color.onPrimary": "81fb7ad8f4aa04fe7b13f63e9e6b10761ce71b9a",
-      "semantic.dummy": "6ba6f186d8c2bdd47c435d948ed217f49467e4c1",
-      "comp.card.color.background": "c6f6306653ff5cee99f844f135f13adc8e9acdcf",
-      "comp.card.color.text": "405b710cb537480519ab3b4eccf95b4c8ecf0848"
+      "color.background": "c0554edbf6196ff03a041c3fa313d6691b8c001e",
+      "color.onBackground": "17b498ed8d74b49ffd44629f579f16b758b03211",
+      "color.primary": "d88083f24ba50f3370a6efce0940e74022b267d9",
+      "color.onPrimary": "f6837a5b39cb47811eded52c9d3da123e820eff3",
+      "dummy": "ff9fe4e50cab9494ab35aed8ebff94fb2eb05770",
+      "color.card.background": "1bed9466fed1c5eb8b08c7b2601fc59b74a335d3",
+      "color.card.text": "55358c2fbe7b6442e047a54be2ee5dd8d346d561"
     },
     "group": "main"
   },
@@ -44,7 +46,9 @@
       "semantic.color.primary": "S:12b7941ee79e139c7b222d6c560cbf0619f6d75b,",
       "semantic.color.onPrimary": "S:f6b29e4441eeddad287a181ee5153cf4c82527e5,",
       "semantic.typography.title": "S:d4238405e951cc4e0945f4d1716c3113a115f18f,",
-      "semantic.typography.body": "S:01f3fb0f40d024bca5e98d206c57dd4687ebfd76,"
+      "semantic.typography.body": "S:01f3fb0f40d024bca5e98d206c57dd4687ebfd76,",
+      "typography.title": "S:74296cf7548c6bc11cd423ccffd98da485baad7d,",
+      "typography.body": "S:ed01f2e8851edeef083992a8d20e098fbd20b82b,"
     },
     "selectedTokenSets": {
       "brand/mmose/meetic": "source",
@@ -59,13 +63,13 @@
     "$figmaCollectionId": "VariableCollectionId:17:2",
     "$figmaModeId": "17:11",
     "$figmaVariableReferences": {
-      "semantic.color.background": "b2d3625da6279caf9c5417429c4fed65c5f3b5c6",
-      "semantic.color.onBackground": "50032c930c4032e5715564fc7e2baa51dfdc7e46",
-      "semantic.color.primary": "3144df075344520068f45c718550e49595063c5d",
-      "semantic.color.onPrimary": "81fb7ad8f4aa04fe7b13f63e9e6b10761ce71b9a",
-      "semantic.dummy": "6ba6f186d8c2bdd47c435d948ed217f49467e4c1",
-      "comp.card.color.text": "405b710cb537480519ab3b4eccf95b4c8ecf0848",
-      "comp.card.color.background": "c6f6306653ff5cee99f844f135f13adc8e9acdcf"
+      "color.background": "c0554edbf6196ff03a041c3fa313d6691b8c001e",
+      "color.onBackground": "17b498ed8d74b49ffd44629f579f16b758b03211",
+      "color.primary": "d88083f24ba50f3370a6efce0940e74022b267d9",
+      "color.onPrimary": "f6837a5b39cb47811eded52c9d3da123e820eff3",
+      "dummy": "ff9fe4e50cab9494ab35aed8ebff94fb2eb05770",
+      "color.card.text": "55358c2fbe7b6442e047a54be2ee5dd8d346d561",
+      "color.card.background": "1bed9466fed1c5eb8b08c7b2601fc59b74a335d3"
     },
     "group": "main"
   },
@@ -91,13 +95,13 @@
     "$figmaCollectionId": "VariableCollectionId:17:2",
     "$figmaModeId": "17:12",
     "$figmaVariableReferences": {
-      "semantic.color.background": "b2d3625da6279caf9c5417429c4fed65c5f3b5c6",
-      "semantic.color.onBackground": "50032c930c4032e5715564fc7e2baa51dfdc7e46",
-      "semantic.color.primary": "3144df075344520068f45c718550e49595063c5d",
-      "semantic.color.onPrimary": "81fb7ad8f4aa04fe7b13f63e9e6b10761ce71b9a",
-      "semantic.dummy": "6ba6f186d8c2bdd47c435d948ed217f49467e4c1",
-      "comp.card.color.text": "405b710cb537480519ab3b4eccf95b4c8ecf0848",
-      "comp.card.color.background": "c6f6306653ff5cee99f844f135f13adc8e9acdcf"
+      "color.background": "c0554edbf6196ff03a041c3fa313d6691b8c001e",
+      "color.onBackground": "17b498ed8d74b49ffd44629f579f16b758b03211",
+      "color.primary": "d88083f24ba50f3370a6efce0940e74022b267d9",
+      "color.onPrimary": "f6837a5b39cb47811eded52c9d3da123e820eff3",
+      "dummy": "ff9fe4e50cab9494ab35aed8ebff94fb2eb05770",
+      "color.card.text": "55358c2fbe7b6442e047a54be2ee5dd8d346d561",
+      "color.card.background": "1bed9466fed1c5eb8b08c7b2601fc59b74a335d3"
     },
     "group": "main"
   },
@@ -110,7 +114,9 @@
       "semantic.color.primary": "S:12b7941ee79e139c7b222d6c560cbf0619f6d75b,",
       "semantic.color.onPrimary": "S:f6b29e4441eeddad287a181ee5153cf4c82527e5,",
       "semantic.typography.title": "S:d4238405e951cc4e0945f4d1716c3113a115f18f,",
-      "semantic.typography.body": "S:01f3fb0f40d024bca5e98d206c57dd4687ebfd76,"
+      "semantic.typography.body": "S:01f3fb0f40d024bca5e98d206c57dd4687ebfd76,",
+      "typography.title": "S:74296cf7548c6bc11cd423ccffd98da485baad7d,",
+      "typography.body": "S:ed01f2e8851edeef083992a8d20e098fbd20b82b,"
     },
     "selectedTokenSets": {
       "brand/affinity/blk": "source",
@@ -125,13 +131,13 @@
     "$figmaCollectionId": "VariableCollectionId:17:2",
     "$figmaModeId": "17:13",
     "$figmaVariableReferences": {
-      "semantic.color.background": "b2d3625da6279caf9c5417429c4fed65c5f3b5c6",
-      "semantic.color.onBackground": "50032c930c4032e5715564fc7e2baa51dfdc7e46",
-      "semantic.color.primary": "3144df075344520068f45c718550e49595063c5d",
-      "semantic.color.onPrimary": "81fb7ad8f4aa04fe7b13f63e9e6b10761ce71b9a",
-      "semantic.dummy": "6ba6f186d8c2bdd47c435d948ed217f49467e4c1",
-      "comp.card.color.text": "405b710cb537480519ab3b4eccf95b4c8ecf0848",
-      "comp.card.color.background": "c6f6306653ff5cee99f844f135f13adc8e9acdcf"
+      "color.background": "c0554edbf6196ff03a041c3fa313d6691b8c001e",
+      "color.onBackground": "17b498ed8d74b49ffd44629f579f16b758b03211",
+      "color.primary": "d88083f24ba50f3370a6efce0940e74022b267d9",
+      "color.onPrimary": "f6837a5b39cb47811eded52c9d3da123e820eff3",
+      "dummy": "ff9fe4e50cab9494ab35aed8ebff94fb2eb05770",
+      "color.card.text": "55358c2fbe7b6442e047a54be2ee5dd8d346d561",
+      "color.card.background": "1bed9466fed1c5eb8b08c7b2601fc59b74a335d3"
     },
     "group": "main"
   },
@@ -157,13 +163,13 @@
     "$figmaCollectionId": "VariableCollectionId:17:2",
     "$figmaModeId": "17:14",
     "$figmaVariableReferences": {
-      "semantic.color.background": "b2d3625da6279caf9c5417429c4fed65c5f3b5c6",
-      "semantic.color.onBackground": "50032c930c4032e5715564fc7e2baa51dfdc7e46",
-      "semantic.color.primary": "3144df075344520068f45c718550e49595063c5d",
-      "semantic.color.onPrimary": "81fb7ad8f4aa04fe7b13f63e9e6b10761ce71b9a",
-      "semantic.dummy": "6ba6f186d8c2bdd47c435d948ed217f49467e4c1",
-      "comp.card.color.text": "405b710cb537480519ab3b4eccf95b4c8ecf0848",
-      "comp.card.color.background": "c6f6306653ff5cee99f844f135f13adc8e9acdcf"
+      "color.background": "c0554edbf6196ff03a041c3fa313d6691b8c001e",
+      "color.onBackground": "17b498ed8d74b49ffd44629f579f16b758b03211",
+      "color.primary": "d88083f24ba50f3370a6efce0940e74022b267d9",
+      "color.onPrimary": "f6837a5b39cb47811eded52c9d3da123e820eff3",
+      "dummy": "ff9fe4e50cab9494ab35aed8ebff94fb2eb05770",
+      "color.card.text": "55358c2fbe7b6442e047a54be2ee5dd8d346d561",
+      "color.card.background": "1bed9466fed1c5eb8b08c7b2601fc59b74a335d3"
     },
     "group": "main"
   },
@@ -178,7 +184,9 @@
       "semantic.color.background": "S:4e090dff452145e395385d0bded9f52f67ce2889,",
       "semantic.color.onBackground": "S:ca22f5dbf1baa635a994512b9b72dfb66d5d4411,",
       "semantic.color.primary": "S:12b7941ee79e139c7b222d6c560cbf0619f6d75b,",
-      "semantic.color.onPrimary": "S:f6b29e4441eeddad287a181ee5153cf4c82527e5,"
+      "semantic.color.onPrimary": "S:f6b29e4441eeddad287a181ee5153cf4c82527e5,",
+      "typography.title": "S:74296cf7548c6bc11cd423ccffd98da485baad7d,",
+      "typography.body": "S:ed01f2e8851edeef083992a8d20e098fbd20b82b,"
     },
     "selectedTokenSets": {
       "brand/affinity/yuzu": "source",
@@ -193,13 +201,13 @@
     "$figmaCollectionId": "VariableCollectionId:17:2",
     "$figmaModeId": "17:15",
     "$figmaVariableReferences": {
-      "semantic.color.background": "b2d3625da6279caf9c5417429c4fed65c5f3b5c6",
-      "semantic.color.onBackground": "50032c930c4032e5715564fc7e2baa51dfdc7e46",
-      "semantic.color.primary": "3144df075344520068f45c718550e49595063c5d",
-      "semantic.color.onPrimary": "81fb7ad8f4aa04fe7b13f63e9e6b10761ce71b9a",
-      "semantic.dummy": "6ba6f186d8c2bdd47c435d948ed217f49467e4c1",
-      "comp.card.color.text": "405b710cb537480519ab3b4eccf95b4c8ecf0848",
-      "comp.card.color.background": "c6f6306653ff5cee99f844f135f13adc8e9acdcf"
+      "color.background": "c0554edbf6196ff03a041c3fa313d6691b8c001e",
+      "color.onBackground": "17b498ed8d74b49ffd44629f579f16b758b03211",
+      "color.primary": "d88083f24ba50f3370a6efce0940e74022b267d9",
+      "color.onPrimary": "f6837a5b39cb47811eded52c9d3da123e820eff3",
+      "dummy": "ff9fe4e50cab9494ab35aed8ebff94fb2eb05770",
+      "color.card.text": "55358c2fbe7b6442e047a54be2ee5dd8d346d561",
+      "color.card.background": "1bed9466fed1c5eb8b08c7b2601fc59b74a335d3"
     },
     "group": "main"
   }
