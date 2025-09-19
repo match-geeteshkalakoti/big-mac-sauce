@@ -1,15 +1,13 @@
 {
-  "comp": {
+  "color": {
     "card": {
-      "color": {
-        "background": {
-          "value": "{semantic.color.primary}",
-          "type": "color"
-        },
-        "text": {
-          "value": "{semantic.color.onPrimary}",
-          "type": "color"
-        }
+      "background": {
+        "value": "{semantic.color.primary}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{semantic.color.onPrimary}",
+        "type": "color"
       }
     }
   }

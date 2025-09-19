@@ -1,24 +1,22 @@
 {
-  "semantic": {
-    "typography": {
-      "title": {
-        "value": {
-          "fontFamily": "Reckless Neue",
-          "fontWeight": "Medium",
-          "lineHeight": "36",
-          "fontSize": "36"
-        },
-        "type": "typography"
+  "typography": {
+    "title": {
+      "value": {
+        "fontFamily": "Reckless Neue",
+        "fontWeight": "Medium",
+        "lineHeight": "36",
+        "fontSize": "36"
       },
-      "body": {
-        "value": {
-          "fontFamily": "Beausite Classic",
-          "fontWeight": "Clear",
-          "lineHeight": "24",
-          "fontSize": "20"
-        },
-        "type": "typography"
-      }
+      "type": "typography"
+    },
+    "body": {
+      "value": {
+        "fontFamily": "Beausite Classic",
+        "fontWeight": "Clear",
+        "lineHeight": "24",
+        "fontSize": "20"
+      },
+      "type": "typography"
     }
   }
 }

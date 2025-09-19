@@ -1,21 +1,13 @@
 {
-  "semantic": {
-    "dummy": {
-      "value": "Empty file but needed for Figma to see it",
-      "type": "text"
-    }
-  },
-  "comp": {
+  "color": {
     "card": {
-      "color": {
-        "text": {
-          "value": "{brand.color.sapphire.95}",
-          "type": "color"
-        },
-        "background": {
-          "value": "{brand.color.sapphire.20}",
-          "type": "color"
-        }
+      "text": {
+        "value": "{brand.color.sapphire.95}",
+        "type": "color"
+      },
+      "background": {
+        "value": "{brand.color.sapphire.20}",
+        "type": "color"
       }
     }
   }
